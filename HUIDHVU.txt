@@ -1,0 +1,6 @@
+              
+
+
+            "IP":"chibrahim01.aternos.me";
+             "PORT":"44027"
+              "NAME":"HEROBRINE SMP"
